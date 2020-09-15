@@ -1,7 +1,7 @@
 # Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow 2판
 
 이 책을 기준으로 머신러닝 개념을 다시 잡으려고 한다.
-
+## 현재 하반기 준비중.. 다소 업로드가 다소 
 
 [계획]
 
